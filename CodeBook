@@ -1,0 +1,16 @@
+
+List of variables used:
+features- dataframe, with list of feature variable
+activity_labels- data frame with activity labels
+y_test- data frame with the activities as numbers
+x_test- data frame with the quantities assigned to features
+subject_test- data frame with the subjects 
+test_data- data frame with all the test data 
+y_train- data frame with the activities as numbers
+x_train- data frame with the quantities assigned to features
+subject_train- data frame with the subjects 
+train_data- data frame with all the train data 
+total_data- data frame with the training and testing data merged
+mean_std_data- data frame with only mean and standard deviation feature variables
+merged_data- Same data frame as the mean_std_data, with the features and activities labeled more appropriately
+final_data- data frame summarized by mean of each subject and activity
