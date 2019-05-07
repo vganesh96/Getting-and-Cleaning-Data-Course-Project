@@ -3,8 +3,11 @@ Human Activity Recognition Using Smartphones Data Set- Tidy Data
 Repository components:
 
 README.md- Describes the analysis files in this project
+
 CodeBook.md- Lists the variables in the final data set and the r analysis code
+
 run_analysis.R- Creates the Tidy dataset
+
 tidy_data.txt- Contains tidy dataset
 
 Description of R code:
